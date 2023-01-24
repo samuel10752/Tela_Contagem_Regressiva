@@ -1,4 +1,4 @@
-# TEla de Contagem Regressiva
+# Tela de Contagem Regressiva
 # Site Criado para Informar quanto tempo o site ficara pronto.
 #Linguagens usados para a criaçáo do site!
 
@@ -20,6 +20,6 @@
 
 #Preview do projeto:
 
-<img src="https://github.com/samuel10752/Max_chaveiro/blob/master/img/Captura%20de%20tela_20230124_182132.png"/>
+<img src="https://github.com/samuel10752/Tela_Contagem_Regressiva/blob/master/em-breve-main/images/Captura%20de%20tela_20230124_201007.png"/>
 
 </div>
